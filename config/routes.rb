@@ -143,5 +143,5 @@ Rails.application.routes.draw do
     end
   end
 
-  root to: 'sessions#new'
+  root to: 'main#index'
 end
