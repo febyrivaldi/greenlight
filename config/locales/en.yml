@@ -315,8 +315,8 @@ en:
       start: Start searching...
   landing:
     about: "%{href} Datacomm Diangraha is the Leading Information & Communication Technology Service Provider in Indonesia. Partnership with our clients, our goal is to help them to be ready for Digital Generation."
-    welcome: Welcome to Mobile legends .
-    video: Watch our tutorial on using Greenlight
+    welcome: Datacomm Web Conferencing System
+    video: Watch our tutorial on using our System
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
